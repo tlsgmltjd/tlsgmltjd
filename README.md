@@ -1,4 +1,6 @@
-<p><img src="https://img.shields.io/badge/React.js-73c4f3?style=flat-square&logo=react&logoColor=white&"/> <img src="https://img.shields.io/badge/TypeScript-4376c1?style=flat-square&logo=TypeScript&logoColor=white"/><img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/></p>
+![](https://skillicons.dev/icons?i=typescript,react,nextjs&theme=dark)
+<br />
+![](https://skillicons.dev/icons?i=java,spring,mysql&theme=dark)
 
 😎 **[velog](https://velog.io/@tlsgmltjd)**
 
