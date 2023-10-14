@@ -1,9 +1,12 @@
-![](https://skillicons.dev/icons?i=typescript,react,nextjs&theme=dark)
-<br />
-![](https://skillicons.dev/icons?i=java,spring,mysql&theme=dark)
+안녕하세요! 백엔드 개발자 신희성입니다.
 
-😎 **[velog](https://velog.io/@tlsgmltjd)**
+- content: s23012@gsm.hs.kr
 
+---
+
+<a href = "https://velog.io/@tlsgmltjd">
+<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+</a>
 
 <!--
 **tlsgmltjd/tlsgmltjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
