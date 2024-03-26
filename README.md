@@ -1,6 +1,6 @@
 안녕하세요! 백엔드 개발자 신희성입니다.
 
-- content: s23012@gsm.hs.kr
+- contact: s23012@gsm.hs.kr
 
 ---
 
