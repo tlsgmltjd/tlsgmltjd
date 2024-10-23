@@ -4,7 +4,7 @@
 
 ---
 
-<a href = "https://velog.io/@tlsgmltjd">
+<a href = "https://velog.io/@shs_owo">
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
 <a href = "https://tlsgmltjd.tistory.com/">
