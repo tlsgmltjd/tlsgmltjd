@@ -1,6 +1,7 @@
 안녕하세요! 백엔드 개발자 신희성입니다.
 
-- contact: s23012@gsm.hs.kr
+- contact: vvwv309@gmail.com
+- resume: www.tlsgmltjd.site
 
 ---
 
